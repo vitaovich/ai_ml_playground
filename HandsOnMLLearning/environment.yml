@@ -1,0 +1,9 @@
+name: hands_on_ml_learning
+channels:
+  - defaults
+dependencies:
+  - python=3.11  
+  - scikit-learn
+  - numpy
+  - matplotlib
+  - pandas
